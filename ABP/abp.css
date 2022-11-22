@@ -166,7 +166,7 @@ footer .container{
         #ayudar ul{
             margin-left: 100px;
         }
-      
+
         footer .container{
             justify-content: flex-end;
         }
@@ -179,4 +179,7 @@ footer .container{
     }
 #video{
     background-color: rgb(115, 183, 185);
+}
+#video p{
+    text-align: center;
 }
